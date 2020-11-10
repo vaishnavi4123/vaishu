@@ -1,0 +1,121 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin-top: 0;
+}
+div{
+    
+}
+.top-container{
+    background-color:#01c5c4;
+    position:relative;
+    padding-top:250px;
+    
+}
+.middle-container{
+    
+}
+#description{
+    font-family: 'Montserrat', sans-serif;
+   font-size:1.5rem;
+    left:680px;
+    top:240px;
+    
+}
+.bottom-container{
+   background-color: #01c5c4;
+}
+.bottom-cloud{
+    position:absolute;
+    left:350px;
+    top:200px;
+    padding-top:150px;
+}
+.top-cloud{
+    position:absolute;
+    right:400px;
+    top:30px;
+    padding-top:100px;
+}
+.mountain{
+  padding-top: 20px;
+    
+}
+#name{
+    font-family: 'Sacramento', cursive;
+    font-size: 5vw;
+    margin:0 auto 0 auto;
+   left:550px;
+    top:150px;
+    
+    
+}
+.name{
+    margin-bottom: 100px;
+    color:#16697a;
+    
+    
+}
+#certificate{
+    text-decoration: none;
+    color:blue;
+}
+.list{
+    
+    position:absolute;
+    right:10px;
+    top:10px;
+}
+.list li{
+    display:inline-block;
+    padding-right: 30px;
+    
+}
+.list li a{
+    text-decoration: none;
+    color:#16697a;
+}
+.profile {
+    margin:80px 500px 80px 500px;
+    
+}
+.traits{
+    margin:80px 500px 80px 500px;
+    
+}
+.achievments{
+    margin:80px 500px 80px 500px;
+}
+hr{
+    width:5%;
+    border-style:none;
+    border-top-style: dotted;
+    border-width:8px;
+    border-color:#9ad3bc;
+}
+h3{
+    color:#16697a;
+}
+.profile h1{
+    color:#16697a;
+}
+.traits h1{
+    color:#16697a;
+}
+.achievments{
+    color:#16697a;
+}
+.links{
+    display: inline-block;
+    margin:50px auto 50px auto;
+    
+}
+.links a{
+    text-decoration: none;
+    margin-right: 10px;
+    color:#16697a;
+}
+
